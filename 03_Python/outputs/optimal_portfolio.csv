@@ -1,0 +1,21 @@
+Num_Projects,Project_Names,Total_Cost,Total_NPV,Avg_IRR_Pct,Avg_Risk_Score,Budget_Util_Pct
+6,E-Commerce Platform | New Product Line | Geographic Expansion | Warehouse Automation | Customer Loyalty Prog | Strategic Acquisition,5000000,738950,18.97,5.76,100.0
+6,E-Commerce Platform | New Product Line | Geographic Expansion | Customer Loyalty Prog | Mobile App Investment | Strategic Acquisition,4800000,728090,19.35,5.73,96.0
+6,E-Commerce Platform | Geographic Expansion | Warehouse Automation | Customer Loyalty Prog | Mobile App Investment | Strategic Acquisition,4900000,726420,19.05,5.68,98.0
+6,New Store Expansion | E-Commerce Platform | New Product Line | Customer Loyalty Prog | Mobile App Investment | Strategic Acquisition,5000000,721650,19.53,5.74,100.0
+6,New Product Line | Geographic Expansion | Warehouse Automation | Customer Loyalty Prog | Mobile App Investment | Strategic Acquisition,4700000,699290,18.82,5.57,94.0
+6,New Store Expansion | New Product Line | Warehouse Automation | Customer Loyalty Prog | Mobile App Investment | Strategic Acquisition,4900000,692850,19.0,5.58,98.0
+5,New Store Expansion | E-Commerce Platform | Geographic Expansion | Customer Loyalty Prog | Strategic Acquisition,4900000,684820,19.0,6.68,98.0
+6,E-Commerce Platform | New Product Line | Warehouse Automation | Customer Loyalty Prog | Mobile App Investment | Strategic Acquisition,4500000,680470,19.43,5.17,90.0
+5,New Store Expansion | E-Commerce Platform | Geographic Expansion | Mobile App Investment | Strategic Acquisition,5000000,678650,18.56,6.97,100.0
+6,New Store Expansion | E-Commerce Platform | New Product Line | Geographic Expansion | Warehouse Automation | Customer Loyalty Prog,4700000,676420,19.2,5.38,94.0
+6,New Store Expansion | E-Commerce Platform | New Product Line | Geographic Expansion | Warehouse Automation | Mobile App Investment,4800000,670250,18.83,5.62,96.0
+6,New Store Expansion | E-Commerce Platform | New Product Line | Geographic Expansion | Customer Loyalty Prog | Mobile App Investment,4500000,665560,19.58,5.35,90.0
+6,New Store Expansion | E-Commerce Platform | Geographic Expansion | Warehouse Automation | Customer Loyalty Prog | Mobile App Investment,4600000,663890,19.28,5.31,92.0
+5,New Store Expansion | New Product Line | Geographic Expansion | Warehouse Automation | Strategic Acquisition,5000000,662380,17.82,6.86,100.0
+5,New Store Expansion | New Product Line | Geographic Expansion | Customer Loyalty Prog | Strategic Acquisition,4700000,657690,18.72,6.54,94.0
+5,New Store Expansion | Geographic Expansion | Warehouse Automation | Customer Loyalty Prog | Strategic Acquisition,4800000,656020,18.36,6.49,96.0
+5,New Store Expansion | New Product Line | Geographic Expansion | Mobile App Investment | Strategic Acquisition,4800000,651520,18.28,6.82,96.0
+5,E-Commerce Platform | New Product Line | Geographic Expansion | Warehouse Automation | Strategic Acquisition,4600000,650000,18.34,6.37,92.0
+5,New Store Expansion | Geographic Expansion | Warehouse Automation | Mobile App Investment | Strategic Acquisition,4900000,649850,17.92,6.77,98.0
+5,E-Commerce Platform | New Product Line | Geographic Expansion | Customer Loyalty Prog | Strategic Acquisition,4300000,645310,19.24,6.05,86.0
